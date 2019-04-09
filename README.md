@@ -1,4 +1,4 @@
-terminal notebook
+Terminal Notebook
 
 ctrl + w 往回删除一个单词，光标放在最末尾
 
