@@ -1,3 +1,5 @@
+terminal notebook
+
 ctrl + w 往回删除一个单词，光标放在最末尾
 
 ctrl + u 删除光标以前的字符 
